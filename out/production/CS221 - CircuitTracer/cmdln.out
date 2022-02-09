@@ -1,0 +1,7 @@
+Usage: java CircuitTracer <-s | -q> <-c | -g> file
+ options: 
+ -s 		uses Stack storage configuration
+ -q 		uses Queue storage configuration
+ -c 		prints solutions to console
+ -g 		displays solutions in a GUI window
+ file 		the name of a valid .dat input file
