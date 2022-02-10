@@ -28,7 +28,7 @@ public class CircuitTracer {
 	/** Print instructions for running CircuitTracer from the command line. */
 	private void printUsage() {
 
-		System.out.println("Usage: java CircuitTracer <-s | -q> <-c | -g> file" +
+		System.out.println("Usage: java CircuitTracer < -s | -q > < -c | -g > file" +
 				"\n options: \n -s 		uses Stack storage configuration" +
 				"\n -q 		uses Queue storage configuration" +
 				"\n -c 		prints solutions to console" +
